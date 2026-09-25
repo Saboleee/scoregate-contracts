@@ -835,3 +835,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-70 -->
 - #70: #20 — Dispute Timeout Resolution Traps When Fee Reserve Balance Is Insufficient
+
+<!-- handsoff-issue-71 -->
+- #71: #21 — Admin Dispute Remediation Bypasses Model Analytics and Invariant Pipelines
