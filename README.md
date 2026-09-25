@@ -838,3 +838,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-71 -->
 - #71: #21 — Admin Dispute Remediation Bypasses Model Analytics and Invariant Pipelines
+
+<!-- handsoff-issue-72 -->
+- #72: #22 — Preimage Encoding Format Mismatch Between commit_dispute_bond and open_score_dispute
