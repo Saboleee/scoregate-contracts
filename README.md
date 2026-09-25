@@ -832,3 +832,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-69 -->
 - #69: #19 — Silent Pagination Truncation on Cleared Scores in export_all_scores_paginated
+
+<!-- handsoff-issue-70 -->
+- #70: #20 — Dispute Timeout Resolution Traps When Fee Reserve Balance Is Insufficient
