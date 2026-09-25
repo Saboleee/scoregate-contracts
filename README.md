@@ -827,3 +827,8 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 - Stellar Development Foundation (2024) *Soroban Smart Contract Documentation*. Available at: https://soroban.stellar.org/docs
 - [`docs/host-version-support-policy.md`](docs/host-version-support-policy.md) — supported Rust/Soroban build boundary and CI coverage
 - [`docs/network-matrix.md`](docs/network-matrix.md) — supported deployment profiles and failure modes
+
+## Handsoff notes
+
+<!-- handsoff-issue-69 -->
+- #69: #19 — Silent Pagination Truncation on Cleared Scores in export_all_scores_paginated
